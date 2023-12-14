@@ -1,7 +1,7 @@
 let userScore = 0;
 let computerScore = 0;
 let rounds = 0;
-let maxRounds = 3;  // 
+let maxRounds = 3;  
 let userName;
 
 function startGame() {
